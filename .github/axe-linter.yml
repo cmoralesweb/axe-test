@@ -3,6 +3,7 @@ rules:
   aria-roles: true
   label: true
   tabindex: true
+  anchor-is-valid: true
 
 tags:
   - wcag21aa
