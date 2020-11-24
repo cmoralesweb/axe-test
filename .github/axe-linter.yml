@@ -1,3 +1,9 @@
+rules:
+  aria-allowed-role: true
+  aria-roles: true
+  label: true
+  tabindex: true
+
 tags:
   - wcag2a
   - wcag2aa
